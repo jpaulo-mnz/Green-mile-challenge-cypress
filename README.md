@@ -80,10 +80,9 @@ describe ('teste de componente', () => {
 })
 ````
 **O que o script faz**
-Clica no componente e espera 500 milissegundos
-Válida se o tamanho de escala é o esperado de (225 x 225 px.)
+Clica no componente e espera 500 milissegundos e válida se o tamanho de escala é o esperado de (225 x 225 px.)
 
-**Observações:** Coloquei duas variáveis, uma para novo ambiente que irá utilizar o js simples que no meu caso era o localhost, a segunda variável é do ambiente web original, que usa o hammer.js, o objetivo dessas variáveis e permitir uma comparação rápida entre os dois ambientes, mostrando a impossibilidade de usar o cypress para manipular componentes hammer.js.
+**Observações:** Coloquei duas variáveis no script, uma para novo ambiente que irá utilizar o js simples que no meu caso era o localhost, a segunda variável é do ambiente web original, que usa o hammer.js, o objetivo dessas variáveis e permitir uma comparação rápida entre os dois ambientes, mostrando a impossibilidade de usar o cypress para manipular componentes hammer.js.
 
 **Passos para executar o teste**
 1. Download dos arquivios do projeto, você pode fazer isso clicando [aqui](https://github.com/jpaulo-mnz/Green-mile-challenge-cypress/archive/master.zip).
