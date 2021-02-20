@@ -1,4 +1,3 @@
-# Desafio Green mile cypress
 
 Esse repositório é um desafio que faz parte de um processo seletivo da empresa Green Mile, abaixo está o desafio proposto, seus problemas e sua solução.
 
